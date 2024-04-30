@@ -5,4 +5,4 @@
 </div>
 
   
-  ![Snake animation](https://github.com/davi-takayama/davi-takayama/blob/output/github-contribution-grid-snake.gif)
+  ![Snake animation](https://github.com/davi-takayama/davi-takayama/blob/output/github-contribution-grid-snake.svg)
